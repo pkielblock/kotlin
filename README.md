@@ -1,2 +1,2 @@
-# kotlin
-Repo for Kotlin studies at university,
+# Kotlin
+** Repo for Kotlin studies at university,
